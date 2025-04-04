@@ -1,5 +1,3 @@
-"use server"
-
 // A simple Naive Bayes classifier implementation
 export class SimpleNaiveBayes {
   private categories: Set<string> = new Set()
